@@ -16,7 +16,7 @@ intro = """
 ███████║   ██║   ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║      ██████╔╝╚██████╔╝   ██║      ██║   ███████╗██║  ██║
 ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝      ╚═════╝  ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-https://github.com/Ampledd/Youtube-View-Bot
+https://github.com/SquirkHades/youtube-view-bot/
 """
  
 print(intro)
