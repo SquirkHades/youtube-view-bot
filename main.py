@@ -42,7 +42,7 @@ iPhone_UA = ("Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit
 
 proxy_loading = input("[1] Load Proxys from APIs\n[2] Load Proxys from proxys.txt\n")
 
-token = input("xPQwnTn1wbM")
+token = input("ID of your video/live")
 class main(object):
     def __init__(self):
         self.combolist = Queue()
